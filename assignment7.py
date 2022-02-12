@@ -33,4 +33,4 @@ a = int(input())
 for i in range(a):
     String =  input()
     Lapindrome(String)
-# GITHUB-LINK->
+# GITHUB-LINK->https://github.com/Devansh141202/PIP_Assignment/blob/main/assignment7.py
